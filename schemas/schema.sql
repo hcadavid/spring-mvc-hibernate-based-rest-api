@@ -1,15 +1,3 @@
-# ************************************************************
-# Sequel Pro SQL dump
-# Version 4096
-#
-# http://www.sequelpro.com/
-# http://code.google.com/p/sequel-pro/
-#
-# Host: desarrollo.is.escuelaing.edu.co (MySQL 5.1.63-max)
-# Database: bdprueba
-# Generation Time: 2014-10-01 15:39:54 +0000
-# ************************************************************
-
 
 /*!40101 SET @OLD_CHARACTER_SET_CLIENT=@@CHARACTER_SET_CLIENT */;
 /*!40101 SET @OLD_CHARACTER_SET_RESULTS=@@CHARACTER_SET_RESULTS */;
